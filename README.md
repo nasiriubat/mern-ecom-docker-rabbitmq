@@ -1,4 +1,4 @@
 # COMP.CS.510 Web Development 2 - Group project work repository
  
-Our final project documentation is on the root of this repository. All details ahs been given there. Moreover a well gitLab issue board has also been there.
+This project is built with MERN stack and demonstrates the usage docker, docker-compose and amessage broker service (rabbitmq).
 
